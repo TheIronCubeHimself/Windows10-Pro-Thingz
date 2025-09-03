@@ -1,2 +1,2 @@
-# Windows11-Thingz
-Windows 11 Thingz for Laptops and Desktops
+# Windows10-Thingz
+Windows 10 Thingz for Laptops and Desktops
